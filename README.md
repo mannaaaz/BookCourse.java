@@ -10,7 +10,7 @@ BookCourse Project summary:
 - Test the CourseBooks by a Tester-Class: - CourseBooksTest-. 
 
 
--methods to describe:
+-Methods to describe:
 - addBook(): add a list of books to a specific CourseBook. 
 - getMaxPrice(): returns the book with highest price. 
 - displyBook(): to output the Course, with its lists of Books in a good way. 
